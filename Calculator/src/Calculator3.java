@@ -28,7 +28,6 @@ public class Calculator3 {
         Scanner buffer = new Scanner(System.in);
         int var1 = buffer.nextInt();
         array_numere[i]=var1;
-
         i++;
 
     }

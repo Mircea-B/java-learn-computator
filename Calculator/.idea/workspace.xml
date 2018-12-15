@@ -12,19 +12,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Program2.java">
+        <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Program4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="315">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Calculator2.java">
+        <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Calculator4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            <state relative-caret-position="21">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -100,7 +100,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544917361759" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544917833422" />
     <property name="last_opened_file_path" value="C:/proiecte/java-learn-computator" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -121,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program2">
+  <component name="RunManager" selected="Application.Program3">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="Calculator" />
@@ -166,10 +166,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program2" />
+        <item itemvalue="Application.Program3" />
         <item itemvalue="Application.Program4" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Program3" />
+        <item itemvalue="Application.Program2" />
         <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
@@ -191,7 +191,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -200,7 +200,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32887402" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32887402" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,31 +317,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="2116" selection-start-line="2116" selection-end-line="2116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Program4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Calculator4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
@@ -370,6 +349,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Calculator4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/proiecte/java-learn-computator/Calculator/src/Program4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
