@@ -2,7 +2,7 @@ public class Program2 {
 
     public static void main(String[] args) {
 
-        int counter;
+
         Calculator2 casio = new Calculator2();
 
         casio.start();
@@ -20,4 +20,3 @@ public class Program2 {
 
 
 
-git
